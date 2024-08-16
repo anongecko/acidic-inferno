@@ -72,6 +72,8 @@ M.base46 = {
         StatusLine = { bg = M.base_30.black2, fg = M.base_30.inferno_light_orange },
         StatusLineNC = { bg = M.base_30.black2, fg = M.base_30.grey_fg },
 
+        IblChar = { fg = M.base_30.light_grey }, 
+
         -- Terminal Divider (Acidic Green)
         TermCursor = { fg = M.base_30.acidic_green, bg = M.base_30.acidic_green}
     },
